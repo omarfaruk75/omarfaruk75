@@ -5,7 +5,7 @@
  web development skilled in JavaScript, React, and Tailwind CSS, and I am committed to creating dynamic and responsive web applications.</p>  
 <p align="left">
   <img
-    src="!(https://komarev.com/ghpvc/?username=omarfaruk75)"
+    src="https://komarev.com/ghpvc/?username=omarfaruk75"
     alt="omarfaruk75"
   />
 </p>
