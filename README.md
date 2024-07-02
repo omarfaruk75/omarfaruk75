@@ -14,7 +14,7 @@
   />
 </p>
 
-<div style="text-align: right;">
+<div align="right">
   <a href="https://app.daily.dev/omarfaruk75">
     <img src="https://api.daily.dev/devcards/v2/IEkljLW8a5DUsRFLpBuOd.png?type=default&r=cvo" width="356" alt="Omar Faruk's Dev Card"/>
   </a>
@@ -34,7 +34,7 @@
 
 ### Daily Streak
 
-<div align-items: center;">
+<div align="center";">
   <img src="https://streak-stats.demolab.com/?user=omarfaruk75" alt="GitHub streak stats" style="margin-right: 10px;" />
 </div>
 
