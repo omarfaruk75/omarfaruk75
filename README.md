@@ -9,13 +9,6 @@
 <img align="left" width="26px" alt="Tailwind" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" style="padding-right:10px;" />       
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 
-
-<br />
-<br />
-
-
-
-
 <br/> <br/>
 ### Daily Streak
 
