@@ -15,7 +15,7 @@
 </p>
 
 ### Languages I used:
-<p align="center">
+<p align="left">
 <img  alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img  alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img  alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
@@ -27,6 +27,8 @@
 <br/> <br/>
 ### Daily Streak
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=omarfaruk75)  
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/omarfaruk75/omarfaruk75/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+<p align="left">
+  ![GitHub streak stats](https://streak-stats.demolab.com/?user=omarfaruk75)  
+</p>
+
 
