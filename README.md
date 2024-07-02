@@ -2,7 +2,13 @@
 
 ### About Me
 
-- I am Md Omar Faruk, a passionate web developer.
+
+
+<table>
+  <tr>
+    <td style="text-align: left;">
+      <p>
+       - I am Md Omar Faruk, a passionate web developer.
 - I am enjoying coding as I continually develop my coding skills.
 - I am skilled in HTML5, CSS3, JavaScript, React, Tailwind CSS, and MongoDB.
 - I am committed to creating dynamic and responsive web applications.
@@ -14,15 +20,6 @@
     alt="omarfaruk75"
   />
 </p>
-
-<table>
-  <tr>
-    <td style="text-align: left;">
-      <p>
-        <img
-          src="https://komarev.com/ghpvc/?username=omarfaruk75"
-          alt="omarfaruk75"
-        />
       </p>
     </td>
     <td style="text-align: right;">
