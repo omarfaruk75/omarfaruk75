@@ -2,9 +2,8 @@
 
 ### About Me
 
-<div style="display: flex; justify-content: center; align-items: center;">
- <div>
- - I am Md Omar Faruk, a passionate web developer.
+<div>
+- I am Md Omar Faruk, a passionate web developer.
 - I am enjoying coding as I continually develop my coding skills.
 - I am skilled in HTML5, CSS3, JavaScript, React, Tailwind CSS, and MongoDB.
 - I am committed to creating dynamic and responsive web applications.
@@ -16,11 +15,20 @@
     alt="omarfaruk75"
   />
 </p>
- </div>
-  <a href="https://app.daily.dev/omarfaruk75">
-    <img src="https://api.daily.dev/devcards/v2/IEkljLW8a5DUsRFLpBuOd.png?type=default&r=cvo" width="356" alt="Omar Faruk's Dev Card"/>
- </a>
 </div>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=omarfaruk75" alt="GitHub streak stats" />
+    </td>
+    <td>
+      <a href="https://app.daily.dev/omarfaruk75">
+        <img src="https://api.daily.dev/devcards/v2/IEkljLW8a5DUsRFLpBuOd.png?type=default&r=cvo" width="356" alt="Omar Faruk's Dev Card"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
