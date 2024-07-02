@@ -1,6 +1,9 @@
 ![banner2](https://github.com/omarfaruk75/omarfaruk75/assets/134272454/1bbdd4da-dc44-4aed-a44c-511df08af5bc)
 
 ### About Me
+<div align="right">
+<a href="https://app.daily.dev/mir"><img align="right" src="https://github.com/mir-hussain/mir-hussain/blob/main/devcard.svg" width="200" alt="Mir Hussain's Dev Card"/></a>
+</div>
 - I am Md Omar Faruk, a passionate web developer.
 - I am enjoying coding as I continually develop my coding skills.
 - I am skilled in HTML5, CSS3, JavaScript, React, Tailwind CSS, and MongoDB.
