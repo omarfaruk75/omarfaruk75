@@ -28,9 +28,12 @@
 
 ### Daily Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=omarfaruk75" alt="GitHub streak stats" />
-</p>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://streak-stats.demolab.com/?user=omarfaruk75" alt="GitHub streak stats" style="margin-right: 10px;" />
+  <a href="https://app.daily.dev/omarfaruk75">
+    <img src="https://api.daily.dev/devcards/v2/IEkljLW8a5DUsRFLpBuOd.png?type=default&r=cvo" width="356" alt="Omar Faruk's Dev Card"/>
+  </a>
+</div>
 
 
 
