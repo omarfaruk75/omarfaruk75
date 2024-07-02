@@ -1,8 +1,11 @@
 ![banner2](https://github.com/omarfaruk75/omarfaruk75/assets/134272454/1bbdd4da-dc44-4aed-a44c-511df08af5bc)
 
 ### About Me
-<p>I am Md Omar Faruk, a passionate web developer. I am enjoying coding as I continually develop my coding skills
-HTML5, CSS3, Bootstrap5 in JavaScript, React, Tailwind CSS and MongoDB.I am committed to creating dynamic and responsive web applications. Now I am learning Next.js</p>  
+- I am Md Omar Faruk, a passionate web developer.
+- I am enjoying coding as I continually develop my coding skills.
+- HTML5, CSS3, Bootstrap5 in JavaScript, React, Tailwind CSS and MongoDB are my software skills.
+- I am committed to creating dynamic and responsive web applications. Now I am learning Next.js.
+-  
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=omarfaruk75"
