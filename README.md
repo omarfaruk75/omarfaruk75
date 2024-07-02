@@ -27,8 +27,9 @@
 <br/> <br/>
 ### Daily Streak
 
-<p align="left">
   ![GitHub streak stats](https://streak-stats.demolab.com/?user=omarfaruk75)  
-</p>
+
+
+
 
 
