@@ -6,7 +6,6 @@
 - I am skilled in HTML5, CSS3, JavaScript, React, Tailwind CSS, and MongoDB.
 - I am committed to creating dynamic and responsive web applications.
 - Now I am learning Next.js.
-
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=omarfaruk75"
@@ -14,7 +13,7 @@
   />
 </p>
 
-<div align="right">
+<div align="center">
   <a href="https://app.daily.dev/omarfaruk75">
     <img src="https://api.daily.dev/devcards/v2/IEkljLW8a5DUsRFLpBuOd.png?type=default&r=cvo" width="356" alt="Omar Faruk's Dev Card"/>
   </a>
