@@ -29,6 +29,9 @@
 
   ![GitHub streak stats](https://streak-stats.demolab.com/?user=omarfaruk75)  
 
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=omarfaruk75" alt="GitHub streak stats" />
+</p>
 
 
 
